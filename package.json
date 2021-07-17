@@ -1,0 +1,10 @@
+{
+  "name": "temporal-examples",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Rogério Tavares <email@rogeriotavares.dev>",
+  "license": "MIT",
+  "dependencies": {
+    "@js-temporal/polyfill": "^0.1.0"
+  }
+}
